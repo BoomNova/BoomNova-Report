@@ -11,6 +11,20 @@ Comisión por reserva: Ecotrip recibe una comisión por cada actividad, tour o a
 Publicidad ética: Empresas alineadas con los valores de EcoTrip, como marcas de productos orgánicos o ongs, pueden pagar por aparecer en espacios de la plataforma.<br>
 Venta de productos locales: Ecotrip ofrecerá un espacio donde los productores locales puedan vender sus propios productos (como artesanías, comida local, ropa y mas) a los viajeros antes y después de la experiencia.</a>
 
+<h3>Público objetivo</h3>
+
+1. Viajeros / Turistas responsables: <br>
+
+- Jóvenes y adultos entre 20 y 45 años (aunque puede variar).<br>
+
+- Nivel educativo medio-alto.<br>
+
+- Interés en la sostenibilidad, la naturaleza, la cultura local y el impacto social.<br>
+
+2. Comunidades locales y proveedores turísticos sostenibles<br>
+3. Productores locales (artesanos, agricultores, etc.)<br>
+4. Marcas sostenibles / Aliados publicitarios<br>
+
 <h3>Procesos</h3>
 - Búsqueda y selección de experiencias por parte del usuario <br>
 - Proceso de reserva y confirmación de actividades, hospedajes o tours<br>
