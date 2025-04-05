@@ -16,14 +16,7 @@ Venta de productos locales: Ecotrip ofrecerá un espacio donde los productores l
 <h3>Ingeniería de Software</h3>
 <h3>2025-01</h3>
 <h3>Código del Curso <br> y Nombre del curso</h3>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
+
 
 Código del Curso y Nombre del curso<br>
 Sección<br>
