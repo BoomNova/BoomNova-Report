@@ -14,13 +14,6 @@ Venta de productos locales: Ecotrip ofrecerá un espacio donde los productores l
 <h3>Segmentos objetivo</h3>
 
 1. Viajeros / Turistas responsables: <br>
-
-- Jóvenes y adultos entre 20 y 45 años (aunque puede variar).<br>
-
-- Nivel educativo medio-alto.<br>
-
-- Interés en la sostenibilidad, la naturaleza, la cultura local y el impacto social.<br>
-
 2. Comunidades locales y proveedores turísticos sostenibles<br>
 3. Productores locales (artesanos, agricultores, etc.)<br>
 4. Marcas sostenibles / Aliados publicitarios<br>
