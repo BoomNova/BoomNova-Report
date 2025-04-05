@@ -11,6 +11,13 @@ Comisión por reserva: Ecotrip recibe una comisión por cada actividad, tour o a
 Publicidad ética: Empresas alineadas con los valores de EcoTrip, como marcas de productos orgánicos o ongs, pueden pagar por aparecer en espacios de la plataforma.<br>
 Venta de productos locales: Ecotrip ofrecerá un espacio donde los productores locales puedan vender sus propios productos (como artesanías, comida local, ropa y mas) a los viajeros antes y después de la experiencia.</a>
 
+<h3>Procesos</h3>
+- Búsqueda y selección de experiencias por parte del usuario <br>
+- Proceso de reserva y confirmación de actividades, hospedajes o tours<br>
+
+
+
+
 
 <h3> Universidad Peruana de ciencias Aplicadas </h3> 
 <h3>Ingeniería de Software</h3>
