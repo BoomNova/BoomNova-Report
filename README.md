@@ -14,6 +14,8 @@ Venta de productos locales: Ecotrip ofrecerá un espacio donde los productores l
 <h3>Procesos</h3>
 - Búsqueda y selección de experiencias por parte del usuario <br>
 - Proceso de reserva y confirmación de actividades, hospedajes o tours<br>
+- Registro, verificación y seguimiento de socios turísticos<br>
+- Identificación, evaluación y validación de experiencias turísticas sostenibles<br>
 
 
 
